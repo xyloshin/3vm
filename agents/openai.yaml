@@ -1,0 +1,4 @@
+interface:
+  display_name: "3VM: Three Visual Mockups"
+  short_description: "See three design directions before you build"
+  default_prompt: "Use $3vm to turn this screenshot or brief into three visual mockups and recommend the strongest direction."
